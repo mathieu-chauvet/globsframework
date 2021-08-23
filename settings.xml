@@ -17,9 +17,9 @@
 <!--          <snapshots>-->
 <!--            <enabled>true</enabled>-->
 <!--          </snapshots>-->
-          <releases>
-            <enabled>true</enabled>
-          </releases>
+<!--          <releases>-->
+<!--            <enabled>true</enabled>-->
+<!--          </releases>-->
         </repository>
         <repository>
           <id>central</id>
