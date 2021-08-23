@@ -30,7 +30,7 @@
     <server>
       <id>github</id>
       <username>mathieu-chauvet</username>
-      <password>${secrets.PRIVATE_ACCESS_TOKEN}</password>
+      <password>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</password>
     </server>
   </servers>
 </settings>
