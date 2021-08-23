@@ -4,13 +4,13 @@
     <packaging>jar</packaging>
     <artifactId>globs</artifactId>
     <name>Generic Lightweight ObjectS</name>
-    <version>3.0</version>
+    <version>3.0-RELEASE</version>
 
     <!-- <repositories>
         <repository>
             <id>github</id>
             <url>https://gitlab.com/api/v4/projects/27909705/packages/maven</url>
-        </repository> 
+        </repository>
     </repositories> -->
     <distributionManagement>
         <repository>
