@@ -17,7 +17,7 @@
         </repository>
         <repository>
           <id>github</id>
-          <url>https://maven.pkg.github.com/mathieu-chauvet/*</url>
+          <url>https://maven.pkg.github.com/mathieu-chauvet/saxstack</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
@@ -30,7 +30,7 @@
     <server>
       <id>github</id>
       <username>mathieu-chauvet</username>
-      <password>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</password>
+      <password>${env.PRIVATE_ACCESS_TOKEN}</password>
     </server>
   </servers>
 </settings>

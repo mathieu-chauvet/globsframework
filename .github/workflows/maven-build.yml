@@ -26,3 +26,5 @@ jobs:
 
     - name: Build with Maven
       run: mvn -B -X package --file pom.xml -s settings.xml
+      env:
+        PRIVATE_ACCESS_TOKEN: ${{ secrets.PRIVATE_ACCESS_TOKEN }}
