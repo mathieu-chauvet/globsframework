@@ -35,7 +35,7 @@
     <server>
       <id>github</id>
       <username>mathieu-chauvet</username>
-      <password>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</password>
+      <password>${env.PRIVATE_ACCESS_TOKEN}</password>
     </server>
   </servers>
 </settings>
