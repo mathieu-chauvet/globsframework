@@ -25,6 +25,6 @@ jobs:
  #       settings-path: ${{ github.workspace }}/settings.xml # location for the settings.xml file
 
     - name: Build with Maven
-      run: mvn -B -X package --file pom.xml -s ${{ github.workspace }}/settings.xml
+      run: mvn -B -X --file pom.xml -s settings.xml package
       env:
         PRIVATE_ACCESS_TOKEN: ${{ secrets.PRIVATE_ACCESS_TOKEN }}
