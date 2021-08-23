@@ -14,9 +14,9 @@
         <repository>
           <id>github</id>
           <url>https://maven.pkg.github.com/mathieu-chauvet/saxstack</url>
-          <snapshots>
-            <enabled>true</enabled>
-          </snapshots>
+<!--          <snapshots>-->
+<!--            <enabled>true</enabled>-->
+<!--          </snapshots>-->
           <releases>
             <enabled>true</enabled>
           </releases>
