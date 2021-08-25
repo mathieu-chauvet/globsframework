@@ -111,12 +111,6 @@
             <version>2.1-RELEASE</version>
             <scope>test</scope>
         </dependency>
-        <!--        <dependency>-->
-        <!--            <groupId>org.globsframework</groupId>-->
-        <!--            <artifactId>globs-generate</artifactId>-->
-        <!--            <version>3.0</version>-->
-        <!--            <scope>test</scope>-->
-        <!--        </dependency>-->
         <dependency>
             <groupId>xerces</groupId>
             <artifactId>xercesImpl</artifactId>
